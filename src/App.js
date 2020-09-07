@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Mohit Karan Shivi Harry Ankit
         </a>
       </header>
     </div>
